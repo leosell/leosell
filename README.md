@@ -1,7 +1,7 @@
 <h1 align='center'>Sejá bem-vindo ao meu <i>GITHUB</i></h1>
 
 - Me chamo <i>Leonardo Sell</i>
-- Estou no terceiro semestre de desenvolvimento de sistema
+- Estou cursando o terceiro semestre de desenvolvimento de sistema
 - Atualmente estou trabalhando em projetos pessoais e me desenvolvendo mais para trabalhar com <i>JAVA</i> na empresa que atuo
 
 
@@ -9,7 +9,7 @@
 
 <div align='center'>
   <a href='https://github.com/leosell'>
-  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=leosell&show_icons=true&theme=dark&include_all_commits=true&count_private=true' />
+  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=leosell&show_icons=true&theme=dark&include_all_commits=true&count_private=true'/>
   <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=leosell&layout=compact&langs_count=7&theme=dark' />
 </div>
 

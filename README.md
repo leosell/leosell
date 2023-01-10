@@ -5,13 +5,13 @@
 - Atualmente estou trabalhando em projetos pessoais e me desenvolvendo mais para trabalhar com <i>JAVA</i> na empresa que atuo
 
 
-<h1 align='center'><i>Detalhes sobre meu perfil</i></h1>
+<!-- <h1 align='center'><i>Detalhes sobre meu perfil</i></h1>
 
 <div align='center'>
   <a href='https://github.com/leosell'>
-  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=leosell&show_icons=true&theme=dark&include_all_commits=true&count_private=true'/>
-  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=leosell&layout=compact&langs_count=7&theme=dark' />
-</div>
+  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=leosell&show_icons=true&theme=dark&include_all_commits=true&count_private=true'>
+  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=leosell&layout=compact&langs_count=7&theme=dark'>
+</div> -->
 
 <div style='display: inline-block' align='center'><br>
   <img align='center' alt='Dev-JS' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>

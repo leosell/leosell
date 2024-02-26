@@ -1,8 +1,10 @@
 <h1 align='center'>Sejá bem-vindo ao meu <i>GITHUB</i></h1>
 
 - Me chamo <i>Leonardo Sell</i>
-- Estou cursando o terceiro semestre de desenvolvimento de sistema
-- Atualmente estou trabalhando em projetos pessoais e me desenvolvendo mais para trabalhar com <i>JAVA</i> na empresa que atuo
+- Formado em Desenvolvimento de Sistemas pelo Senai
+- Trabalhando em um sistema de estacionamento inovador
+    - Website para controle do estacionamento total.
+    - App para cliente final com mapa interativo.
 
 
 <h1 align='center'><i>Detalhes sobre meu perfil</i></h1>
@@ -14,12 +16,12 @@
 </div>
 
 <div style='display: inline-block' align='center'><br>
+  <img align='center' alt='Dev-SQL' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'>
   <img align='center' alt='Dev-JS' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
   <img align='center' alt='Dev-React' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
   <img align='center' alt='Dev-HTML' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
   <img align='center' alt='Dev-TailwindCSS' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg'>
   <img align='center' alt='Dev-SQL' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
-  <img align='center' alt='Dev-SQL' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'>
 </div>
 
 ##

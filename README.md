@@ -7,7 +7,7 @@
     - Website para controle do estacionamento total.
     - App para cliente final com mapa interativo.
  
-- Meu Portifólio: https://leonardocsell.com.br
+- <a href='https://leonardocsell.com.br' target='_blank'>Meu Portifólio</a>
 
 
 <h1 align='center'><i>Detalhes sobre meu perfil</i></h1>

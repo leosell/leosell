@@ -1,10 +1,13 @@
 <h1 align='center'>Sejá bem-vindo ao meu <i>GITHUB</i></h1>
 
 - Me chamo <i>Leonardo Sell</i>
-- Formado em Desenvolvimento de Sistemas pelo Senai
+- Formado em Desenvolvimento de Sistemas
+- Programador Back-End, Apoiador por Java hehe
 - Trabalhando em um sistema de estacionamento inovador
     - Website para controle do estacionamento total.
     - App para cliente final com mapa interativo.
+ 
+- Meu Portifólio: https://leonardocsell.com.br
 
 
 <h1 align='center'><i>Detalhes sobre meu perfil</i></h1>
